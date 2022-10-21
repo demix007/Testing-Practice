@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1666318587812" clover="3.2.0">
+  <project timestamp="1666318587813" name="All files">
+    <metrics statements="14" coveredstatements="13" conditionals="4" coveredconditionals="3" methods="8" coveredmethods="8" elements="26" coveredelements="24" complexity="0" loc="14" ncloc="14" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="C:\Users\Ayodeji Abidemi\Documents\MICROVERSE\Testing-Practice\calculator.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="C:\Users\Ayodeji Abidemi\Documents\MICROVERSE\Testing-Practice\capitalize.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="C:\Users\Ayodeji Abidemi\Documents\MICROVERSE\Testing-Practice\reverseString.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="stringLength.js" path="C:\Users\Ayodeji Abidemi\Documents\MICROVERSE\Testing-Practice\stringLength.js">
+      <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <line num="2" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="6" count="19" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
